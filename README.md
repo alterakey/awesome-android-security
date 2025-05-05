@@ -211,6 +211,7 @@
 * [App Critique](https://appcritique.boozallen.com/)
 * [Jotti's malware scan](https://virusscan.jotti.org/)
 * [kaspersky scanner](https://opentip.kaspersky.com/)
+* [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 
 #### Online APK Decompiler
 * [Android APK Decompiler](http://www.decompileandroid.com/)
